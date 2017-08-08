@@ -1,6 +1,6 @@
  'use strict' 
 /**
- *  2017-08-08
+ *  2017-08-08 JavaScript基础
  *  多行注释，单行注释
  *  console.log()
  *  声明一个变量 var let const
