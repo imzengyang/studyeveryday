@@ -1,4 +1,13 @@
 # studyeveryday
+## use
+` git clone https://github.com/imzengyang/studyeveryday.git`
+
+`cd studyeveryday`
+
+`npm install`  
+
+`node 2017-08-10.js`
+
 
 |时间|知识点|
 |--|--|
