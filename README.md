@@ -15,3 +15,4 @@
 2017-08-09 | JavaScript 流程结构控制
 2017-08-10 | selenium-webdriver 定位元素 id, css, className, tagName
 2017-08-11 | selenium-webdriver 元素定位 xpath linkText partialLinkText name
+2017-08-12 | 回顾本周内容
