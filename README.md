@@ -21,3 +21,4 @@
 2017-08-15 | selenium-webdriver 浏览器多窗口切换
 2017-08-16 | selenium-webdriver 模拟鼠标移动的方法
 2017-08-17 | selenium-webdriver 屏幕截图
+2017-08-18 | selemium-webdriver 文件上传
