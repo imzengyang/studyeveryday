@@ -22,3 +22,4 @@
 2017-08-16 | selenium-webdriver 模拟鼠标移动的方法
 2017-08-17 | selenium-webdriver 屏幕截图
 2017-08-18 | selemium-webdriver 文件上传
+2017-08-19 | Node.js读取json文件与selenium-webdriver联合使用
