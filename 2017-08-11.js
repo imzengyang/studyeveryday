@@ -3,8 +3,8 @@
  */
 
 require('chromedriver');
-let webdriver = require('selenium-webdriver')
-let drvier = new webdriver.Builder().forBrowser('chrome').build();
+var webdriver = require('selenium-webdriver')
+const drvier = new webdriver.Builder().forBrowser('chrome').build();
 let By = webdriver.By;
 
 drvier.get("http://www.baidu.com");

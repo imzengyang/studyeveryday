@@ -1,7 +1,7 @@
 {
   "name": "studyeveryday",
   "version": "1.0.0",
-  "description": "|时间|知识点|\r |--|--|\r 2017-08-08 | JavaScript 基础：注释，声明变量，函数，var let const的区别\r 2017-08-09 | JavaScript 流程结构控制",
+  "description": "坚持每天学习",
   "main": "2017-08-08.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
