@@ -23,7 +23,10 @@
 2017-08-17 | selenium-webdriver 屏幕截图
 2017-08-18 | selemium-webdriver 文件上传
 2017-08-19 | Node.js读取json文件与selenium-webdriver联合使用
+第四周
 2017-08-21 | selenium-webdriver 上传文件- windowGui工具 autoit
 2017-08-22 | Node.js modules require与exports
 2017-08-23 | selenium-webdriver 选取元素
 2017-08-24 | 根据css 的attribute 来定位元素
+2017-08-25 | selenium-webdriver 显式等待与隐式等待
+2017-08-26 | 讲解 selenium-webdriver xpath 语法
