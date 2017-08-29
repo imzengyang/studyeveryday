@@ -11,6 +11,7 @@
 
 |时间|知识点| 
 |--|--|
+2017-07
 2017-07-12 | JavaScript 数据类型
 2017-07-13 | Javascript 函数
 2017-07-14 | Javascript 条件语句
@@ -28,11 +29,13 @@
 2017-07-28 | selenium-webdriver Keys快捷键的操作
 2017-07-29 | selenium-webdriver 创建手机模拟器
 2017-07-31 | selenium-cucumber Background https://github.com/imzengyang/cucumber-selenium
+2017-08
 2017-08-01 | selenium-cucumber Docstring  https://github.com/imzengyang/cucumber-selenium
 2017-08-02 | Cucumber.js Datatable https://github.com/imzengyang/cucumber-selenium
 2017-08-03 | Cucumber.js 设置超时时间 https://github.com/imzengyang/cucumber-selenium
 2017-08-04 | cucumber.js 运行参数
 2017-08-05 | 测试报告生成
+第二周
 2017-08-08 | JavaScript 基础：注释，声明变量，函数，var let const的区别
 2017-08-09 | JavaScript 流程结构控制
 2017-08-10 | selenium-webdriver 定位元素 id, css, className, tagName
