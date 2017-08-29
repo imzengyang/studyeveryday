@@ -17,7 +17,9 @@ const process = require('child_process')
 const path = require('path')
 let exepath = path.join(__dirname,'autoit','autoitdemo.exe')
 driver.get('http://www.baidu.com');
+driver.sleep(5000)
 driver.findElement(By.className('soutu-btn')).click();
 driver.findElement(By.className('upload-pic')).click().then(function(){
+    driver.sleep(3000)
     process.execFileSync(exepath)
 });

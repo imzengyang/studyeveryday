@@ -27,5 +27,5 @@ driver.findElement(By.id('search-button')).click();
 //
 let firstsearch = driver.wait(until.elementLocated(By.css('ul.poilist > li[map-on-click]:nth-child(1)')),10*1000)
 firstsearch.click();
-driver.quit();
+// driver.quit();
 

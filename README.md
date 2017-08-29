@@ -30,3 +30,6 @@
 2017-08-24 | 根据css 的attribute 来定位元素
 2017-08-25 | selenium-webdriver 显式等待与隐式等待
 2017-08-26 | 讲解 selenium-webdriver xpath 语法
+2017-08-27 | 搭建cnodeclub 社区系统
+第五周
+2017-08-29 | JavaScript 对象
