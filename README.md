@@ -60,3 +60,4 @@
 2017-08-28 | cnode社区自动化脚本注意事项
 2017-08-29 | JavaScript 对象
 2017-08-30 | Javascript 数组
+2017-08-31 | Node.js读取yaml 数据
