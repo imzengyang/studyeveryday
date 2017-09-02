@@ -19,6 +19,7 @@
   "dependencies": {
     "chromedriver": "^2.31.0",
     "js-yaml": "^3.9.1",
+    "mongodb": "^2.2.31",
     "selenium-webdriver": "^3.5.0",
     "xlsx": "^0.11.3"
   },
