@@ -63,3 +63,6 @@
 2017-08-31 | Node.js读取yaml 数据
 2017-09-01 | Node.js读取Excel 文件
 2017-09-02 | Nodejs 连接mongodb数据库
+2017-09
+第一周
+2017-09-04 | JavaScript 闭包
