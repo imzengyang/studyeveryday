@@ -13,14 +13,16 @@ function init(){
 init();
 
 function mkFunc(){
-    let user="xiaoming";
+    let name="xiaoming";
+    let age = 30;
     function getUser(){
-        return user;
+        let userinfo= {name: name, age: age}
+        return userinfo;
     }
     return getUser()
 }
 let getuser =  mkFunc()
-console.log(getuser)
+console.log(getuser)    //{ name: 'xiaoming', age: 30 }
 
 
 
