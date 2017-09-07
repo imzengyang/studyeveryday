@@ -23,7 +23,7 @@
 function http(url, method) {
     let promise = new Promise(function (resovle, reject) {
         setTimeout(function () {
-            var data 
+            var data = 1
             if (data) {
                 resovle(data);
             } else {
@@ -34,8 +34,31 @@ function http(url, method) {
     return promise;
 }
 
-http("baidu.com", "get").then(function (successdata) {
-    console.log(successdata);
-}).catch(function (err) {
-    console.log(err)
-})
+// http("baidu.com", "get").then(function (successdata) {
+//     console.log(successdata);
+// }).catch(function (err) {
+//     console.log(err)
+// })
+
+async function post(url,data){
+    await new Promise(function(resovle,reject){
+        let result =1
+        if(result){
+            resovle(resovle)
+        }else{
+            
+            reject("Has Err")
+        }
+    })
+
+}
+
+let res =  post('sd',{name:"as"})
+console.log(res)
+
+async function TestHttp(){
+    let result =  await http('baidu',"get");
+    console.log(result)
+}
+
+TestHttp();
