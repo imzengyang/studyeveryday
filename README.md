@@ -69,3 +69,4 @@
 2017-09-05 | JavaScript callback 回调
 2017-09-06 | JavaScript Promise 
 2017-09-07 | JavaScript Aysnc
+2017-09-08 | selenium-webdriver headless
