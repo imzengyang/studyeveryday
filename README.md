@@ -64,9 +64,12 @@
 2017-09-01 | Node.js读取Excel 文件
 2017-09-02 | Nodejs 连接mongodb数据库
 2017-09
-第一周
+2017-09份 第一周
 2017-09-04 | JavaScript 闭包
 2017-09-05 | JavaScript callback 回调
 2017-09-06 | JavaScript Promise 
 2017-09-07 | JavaScript Aysnc
 2017-09-08 | selenium-webdriver headless
+2017-09-09 | 复习uirecorder
+2017-09份 第二周
+2017-09-11 | Mocha.js简介
