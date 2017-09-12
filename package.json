@@ -4,7 +4,10 @@
   "description": "坚持每天学习",
   "main": "2017-08-08.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "testapp1":"./node_modules/.bin/mocha  2017-09/2017-09-11.js",
+    "testapp2":"./node_modules/.bin/mocha  2017-09/2017-09-12.js",
+    "testapp":"./node_modules/.bin/mocha  2017-09/2017-09-1*.js",
+    "testall":"npm run testapp1 && npm run testapp2 && npm run testapp"
   },
   "repository": {
     "type": "git",
