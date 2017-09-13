@@ -4,10 +4,10 @@
   "description": "坚持每天学习",
   "main": "2017-08-08.js",
   "scripts": {
-    "testapp1":"./node_modules/.bin/mocha  2017-09/2017-09-11.js",
-    "testapp2":"./node_modules/.bin/mocha  2017-09/2017-09-12.js",
-    "testapp":"./node_modules/.bin/mocha  2017-09/2017-09-1*.js",
-    "testall":"npm run testapp1 && npm run testapp2 && npm run testapp"
+    "testapp1": "./node_modules/.bin/mocha  2017-09/2017-09-11.js",
+    "testapp2": "./node_modules/.bin/mocha  2017-09/2017-09-12.js",
+    "testapp": "./node_modules/.bin/mocha  2017-09/2017-09-1*.js",
+    "testall": "npm run testapp1 && npm run testapp2 && npm run testapp"
   },
   "repository": {
     "type": "git",
@@ -24,11 +24,13 @@
     "js-yaml": "^3.9.1",
     "mocha": "^3.5.2",
     "mongodb": "^2.2.31",
+    "nodemailer": "^4.1.0",
     "puppeteer": "^0.10.2",
     "selenium-webdriver": "^3.5.0",
     "xlsx": "^0.11.3"
   },
   "devDependencies": {
-    "js-yaml": "^3.9.1"
+    "js-yaml": "^3.9.1",
+    "mochawesome": "^2.3.0"
   }
 }
