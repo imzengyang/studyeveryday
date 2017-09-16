@@ -75,3 +75,6 @@
 2017-09-11 | Mocha.js简介
 2017-09-12 | Mocha.js 运行时，通过package.json创建不同的任务
 2017-09-13 | Mocha.js 结合nodemailer 使用 实现自动发送邮件功能
+2017-09-14 | Mocha.js only skip retries 使用
+2017-09-15 | Mocha.js 模拟快捷键
+2017-09-16 | selenium-webdriver验证元素
