@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/imzengyang/studyeveryday#readme",
   "dependencies": {
+    "axios": "^0.16.2",
     "chromedriver": "^2.31.0",
     "js-yaml": "^3.9.1",
     "mocha": "^3.5.2",
