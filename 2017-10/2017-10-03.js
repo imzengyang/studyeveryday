@@ -34,17 +34,22 @@
      }
  }
 
- let stack = new Stack();
- console.log(stack.isEmpty())
+//  let stack = new Stack();
+//  console.log(stack.isEmpty())
 
- stack.push(1);
- stack.push(2);
- stack.push(10);
- stack.push(11);
- console.log(stack.size())
- console.log(stack.peek())
+//  stack.push(1);
+//  stack.push(2);
+//  stack.push(10);
+//  stack.push(11);
+//  console.log(stack.size())
+//  console.log(stack.peek())
 
 
- stack.pop()
 
- console.log(stack.peek())
+
+//  stack.pop()
+
+//  console.log(stack.peek())
+
+module.exports = Stack;
+

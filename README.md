@@ -88,12 +88,16 @@
 2017-09 第四周
 2017-09-24 | 接口自动化测试中 异常处理
 2017-09-25 | axios 异常处理
-2017-09-26 | 2017-09-26_学习javascript数据结构与算法-01说在前面个的话
-2017-09-27 | 2017-09-27_02javascript基础
-2017-09-28 | 2017-09-28_学习JavaScript数据结构与算法_03结构控制
-2017-09-29 | 2017-09-29_学习JavaScript数据结构与算法_04functio和面向对象编程
-2017-09-30 | 2017-09-30_学习JavaScript数据结构和算法_05JavaScript数组
+2017-09-26 | 学习javascript数据结构与算法-01_说在前面个的话
+2017-09-27 | 学习javascript数据结构与算法-02_javascript基础
+2017-09-28 | 学习javascript数据结构与算法-03_学习JavaScript数据结构与算法_03结构控制
+2017-09-29 | 学习JavaScript数据结构与算法_04_functio和面向对象编程
+2017-09-30 | 学习JavaScript数据结构和算法_05_JavaScript数组
 2017-10 第一周
-2017-10-01 | 2017-10-01_学习JavaScript数据结构和算法_06JavaScript二维数组多维数组
-2017-10-02 | 2017-10-02_学习JavaScript数据结构和算法_07JavaScriptJavaScript数组方法
-2017-10-03 | 2017-10-03_学习JavaScript数据结构与算法_08学习JavaScript栈
+2017-10-01 | 学习JavaScript数据结构和算法_06_JavaScript二维数组多维数组
+2017-10-02 | 学习JavaScript数据结构和算法_07_JavaScriptJavaScript数组方法
+2017-10-03 | 学习JavaScript数据结构与算法_08_学习JavaScript栈
+2017-10-04 | 学习JavaScript数据结构与算法-09_JavaScript栈实用
+2017-10-05 | 学习JavaScript数据结构与算法-10_javascript 队列
+2017-10-06 | 学习JavaScript数据结构与算法-11_javascript 优先队形
+2017-10-07 | 学习JavaScript数据结构与算法-12_javascript 循环队列
