@@ -91,13 +91,23 @@
 2017-09-26 | 学习javascript数据结构与算法-01_说在前面个的话
 2017-09-27 | 学习javascript数据结构与算法-02_javascript基础
 2017-09-28 | 学习javascript数据结构与算法-03_学习JavaScript数据结构与算法_03结构控制
-2017-09-29 | 学习JavaScript数据结构与算法_04_functio和面向对象编程
-2017-09-30 | 学习JavaScript数据结构和算法_05_JavaScript数组
+2017-09-29 | 学习JavaScript数据结构与算法-04_functio和面向对象编程
+2017-09-30 | 学习JavaScript数据结构和算法-05_JavaScript数组
 2017-10 第一周
-2017-10-01 | 学习JavaScript数据结构和算法_06_JavaScript二维数组多维数组
-2017-10-02 | 学习JavaScript数据结构和算法_07_JavaScriptJavaScript数组方法
-2017-10-03 | 学习JavaScript数据结构与算法_08_学习JavaScript栈
+2017-10-01 | 学习JavaScript数据结构和算法-06_JavaScript二维数组多维数组
+2017-10-02 | 学习JavaScript数据结构和算法-07_JavaScriptJavaScript数组方法
+2017-10-03 | 学习JavaScript数据结构与算法-08_学习JavaScript栈
 2017-10-04 | 学习JavaScript数据结构与算法-09_JavaScript栈实用
 2017-10-05 | 学习JavaScript数据结构与算法-10_javascript 队列
 2017-10-06 | 学习JavaScript数据结构与算法-11_javascript 优先队形
 2017-10-07 | 学习JavaScript数据结构与算法-12_javascript 循环队列
+2017-10-08 | 学习JavaScript数据结构与算法-13_javascript 链表
+2017-10-09 | 学习JavaScript数据结构与算法-14_javascript 链表删除特定位置
+2017-10-10 | 学习JavaScript数据结构与算法-15_javascript 链表插入特定位置值
+2017-10-11 | 学习JavaScript数据结构与算法-16_javascript 链表所有方法
+2017-10-12 | 学习JavaScript数据结构与算法-17_javascript 双向链表
+2017-10-13 | 学习JavaScript数据结构与算法-18_javascript 循环链表
+2017-10-14 | 学习JavaScript数据结构与算法-19_javascript 集合
+2017-10-16 | 学习JavaScript数据结构与算法-20_javascript 集合-交集，并集，差集，子集
+2017-10-17 | 学习JavaScript数据结构与算法-21_javascript 字典
+
