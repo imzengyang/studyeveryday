@@ -89,6 +89,9 @@ function LinkedList() {
     this.size = function () {
         return length;
     }
+    this.getHead = function (){
+        return head
+    }
 
     this.toString = function () {
         let current = head;
@@ -104,24 +107,26 @@ function LinkedList() {
     }
 }
 
-let list = new LinkedList()
-console.log(list.size())
-list.append(10)
-console.log(list.size())
-list.append(5)
-list.append(4)
-list.print()
+module.exports.LinkedList = LinkedList;
 
-list.removeAt(2)
-list.print()
-list.insertAt(0,1)
-list.print()
-list.insertAt(1,3)
-list.print()
-list.insertAt(4,3)
-list.print()
-console.log(list.indexOf(10))
-console.log(list.indexOf(111))
-list.remove(10);
-list.remove(3);
-list.print();
+// let list = new LinkedList()
+// console.log(list.size())
+// list.append(10)
+// console.log(list.size())
+// list.append(5)
+// list.append(4)
+// list.print()
+
+// list.removeAt(2)
+// list.print()
+// list.insertAt(0,1)
+// list.print()
+// list.insertAt(1,3)
+// list.print()
+// list.insertAt(4,3)
+// list.print()
+// console.log(list.indexOf(10))
+// console.log(list.indexOf(111))
+// list.remove(10);
+// list.remove(3);
+// list.print();
