@@ -54,9 +54,28 @@ function BinarySearchTree() {
             inOrderTrevaseNode(node.right, callback);
         }
     }
-
-    this.preOrderTraverse = function () { }
-    this.postOrderTraverse = function () { }
+    // 先序遍历
+    this.preOrderTraverse = function (callback) {
+        preOrderTraverseNode(root,callback);
+     }
+     let preOrderTraverseNode = function(node,callback){
+         if(node!==null){
+             callback(node.key)
+             preOrderTraverseNode(node.left,callback);
+             preOrderTraverseNode(node.right,callback);
+         }
+     }
+    // 后序遍历
+    this.postOrderTraverse = function (callback) {
+        postOrderTraverseNode(root,callback);
+     }
+     let postOrderTraverseNode = function(node,callback){
+         if(node !== null){
+             postOrderTraverseNode(node.right,callback);
+             postOrderTraverseNode(node.left,callback);
+             callback(node.key);
+         }
+     }
     this.min = function () { }
     this.max = function () { }
     this.remove = function (key) { }
@@ -79,4 +98,6 @@ let printNode = function(value){
     console.log(value)
 }
 
-tree.inOrderTraverse(printNode)
+// tree.inOrderTraverse(printNode)
+// tree.preOrderTraverse(printNode)
+tree.postOrderTraverse(printNode)
