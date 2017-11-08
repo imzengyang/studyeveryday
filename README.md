@@ -90,7 +90,7 @@
 2017-09-25 | axios 异常处理
 2017-09-26 | 学习javascript数据结构与算法-01_说在前面个的话
 2017-09-27 | 学习javascript数据结构与算法-02_javascript基础
-2017-09-28 | 学习javascript数据结构与算法-03_学习JavaScript数据结构与算法_03结构控制
+2017-09-28 | 学习javascript数据结构与算法-03_javaScript数据结构与算法结构控制
 2017-09-29 | 学习JavaScript数据结构与算法-04_functio和面向对象编程
 2017-09-30 | 学习JavaScript数据结构和算法-05_JavaScript数组
 2017-10 第一周
@@ -119,3 +119,16 @@
 2017-10-23 | 学习JavaScript数据结构与算法-26_javascript 二叉搜索树数据插入方法实现
 2017-10-24 | 学习JavaScript数据结构与算法-27_javascript 二叉搜索树-中序遍历方法实现
 2017-10-25 | 学习JavaScript数据结构与算法-28_javascript 二叉搜索树实现先序遍历-后序遍历
+2017-10-26 | 学习JavaScript数据结构与算法-29_javascript 二叉搜索树实现最大值，最小值，搜索特定值
+2017-10-27 | 学习JavaScript数据结构与算法-29_javascript 二叉搜索树实现最大值，最小值，搜索特定值
+2017-10-28 | 学习JavaScript数据结构与算法-29_javascript 二叉搜索树实现最大值，最小值，搜索特定值
+2017-10-29 | 学习JavaScript数据结构与算法-30JavaScript数据结构与算法-二叉搜索树-删除节点
+2017-10-30 | 学习JavaScript数据结构与算法-31JavaScript数据结构与算法-图-基本概念
+2017-10-31 | 学习JavaScript数据结构与算法-32JavaScript数据结构与算法-图的表示方法
+2017-11
+2017-11-01 | 学习JavaScript数据结构与算法-34_javascript 图的创建
+2017-11-02 | cssselector 定位元素 介绍使用 findElements 方法 https://github.com/imzengyang/cssSelectorDemo[https://github.com/imzengyang/cssSelectorDemo]
+2017-11-03 | 学习JavaScript数据结构与算法-35_javascript 图的遍历 
+2017-11-06 | 学习JavaScript数据结构与算法-35学习JavaScript数据结构与算法-图广度优先搜索
+2017-11-07 | 学习JavaScript数据结构与算法-36学习JavaScript数据结构与算法-图-深度优先算法
+2017-11-08 | 学习JavaScript数据结构与算法-37_javascript 冒泡排序
